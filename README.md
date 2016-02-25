@@ -1,2 +1,2 @@
 # home-page
-The home page for schoolshaped.org
+The home page for Launch Camp
