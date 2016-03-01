@@ -1,3 +1,5 @@
+/*color pallete http://paletton.com/#uid=3040u0kjQtna0Lmfm-onZq9rkl5*/
+
 .body {
 	background: #E7E8E8
 }
@@ -25,9 +27,9 @@
 	background: #E1E2E4;  
   	padding: 50px 20px 20px 20px;
   	margin-bottom: 20px;
-  	border: 10px solid #EA6759;
-  	/*border-bottom: 10px solid #EA6759;
-  	border-top: 10px solid #EA6759;*/
+  	/*border: 10px solid #EA6759;*/
+  	border-bottom: 10px solid #FF9185;
+  	border-top: 10px solid #FF9185;
 }
 
 .intro-line-1 {	
@@ -40,7 +42,7 @@
 }
 
 .enroll-link {
-	border: 2px solid darkgray;
+	border: 2px solid #777777;
 	padding: 7px;
 	border-radius: 3px;
 }
@@ -57,12 +59,27 @@
 	color: #EC4B75;
 }
 
+.problem-intro {
+	background: #89C030;
+	width: 100%;
+	color: white;
+	padding: 20px 0 20px 0; 
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+.problem {
+	border-right: 5px solid #227180;
+	border-left: 5px solid #227180;
+	border-bottom: 5px solid #227180;
+}
+
 .explanation-question {
 	color: #EC4B75;
 }
 
-.explanation-container {
-	margin-top: 50px;
+.explanation-container {	
+	margin-bottom: 100px;	
 }
 
 .skills-container {
@@ -82,6 +99,17 @@
 .explanation-section {
 	position: relative;
 }
+
+.skill-header {
+	text-decoration: underline;
+	color: #EA6759;
+}
+
+.skills-image {
+	height: 80px;
+	margin: 20px 0 20px 0;
+}
+
 
 /* to be used for img resizing */
 @media (max-device-width: 480px) { 
