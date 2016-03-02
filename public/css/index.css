@@ -1,20 +1,18 @@
 /*color pallete http://paletton.com/#uid=3040u0kjQtna0Lmfm-onZq9rkl5*/
 
-.body {
-	background: #E7E8E8
-}
-
-.section-1 {
-  	-webkit-transform-style: preserve-3d;
-  	-moz-transform-style: preserve-3d;
-  	transform-style: preserve-3d;
-
-  	position: relative;
+body {
+	background: whitesmoke;
 }
 
 .section {
 	visibility: hidden;
 	position: relative;
+}
+
+.quarter-container {
+	position: relative;
+	top: 25%;
+  	transform: translateY(-25%);	
 }
 
 .centered-container {
@@ -41,10 +39,16 @@
 	margin-top: 40px;	
 }
 
-.enroll-link {
-	border: 2px solid #777777;
-	padding: 7px;
+.enroll-link {	
+	padding: 10px;
 	border-radius: 3px;
+	background: #5B9EAA;
+	color: whitesmoke;	
+}
+
+.enroll-link:hover {
+	text-decoration: underline;
+	color: whitesmoke;	
 }
 
 .overview-wrapper {	
@@ -60,30 +64,21 @@
 }
 
 .problem-intro {
-	background: #89C030;
+	background: #5B9EAA;
 	width: 100%;
-	color: white;
+	color: whitesmoke;
 	padding: 20px 0 20px 0; 
 	margin-top: 50px;
-	margin-bottom: 0px;
+	margin-bottom: 30px;
+	/*border-top: 2px solid black;*/
 }
 
 .problem {
-	/*border-right: 5px solid #227180;*/
-	/*border-left: 5px solid #227180;*/
-	/*border-bottom: 5px solid #227180;*/
-}
-
-.explanation-question {
-	color: #EC4B75;
+	margin-bottom: 30px;
 }
 
 .explanation-container {	
-	margin-bottom: 100px;	
-}
-
-.skills-container {
-	margin-bottom: 50px;
+	margin-bottom: 80px;	
 }
 
 .next-section {
@@ -100,16 +95,64 @@
 	position: relative;
 }
 
+.skills-container h4 {
+	margin-bottom: 0;
+}
+
+.skills-container h3 {	
+	margin-top: 0;
+}
+
 .skill-header {
 	text-decoration: underline;
 	color: #EA6759;
+	font-weight: 700;
 }
 
 .skills-image {
-	height: 80px;
+	height: 110px;
 	margin: 20px 0 20px 0;
 }
 
+.skills-wrapper {
+	/*border-top: 2px solid;*/
+	/*border-bottom: 2px solid;*/
+	background-color: #E1E2E4;
+	padding: 0px 0 50px 0;
+	margin-bottom: 80px;	
+	/*margin-top: 80px;*/
+}
+
+.long-term {
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+
+.enroll-wrapper {
+	/*background: #A5D852;*/
+	padding: 20px 0 20px 0;
+}
+
+.enroll-prompt {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 20px 0 20px;
+	background: #C2EE7C;	
+}
+
+.enroll-container .enroll {
+	margin-top: 0px;	
+	/*background-color: #E1E2E4;*/	
+	padding: 20px 0 20px 0;
+}
+
+.enroll-container .enroll-link {	
+	display: inline-block;
+}
+
+.enroll-container {
+	margin-bottom: 80px;
+}
 
 /* to be used for img resizing */
 @media (max-device-width: 480px) { 

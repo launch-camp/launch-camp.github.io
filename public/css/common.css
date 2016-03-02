@@ -1,5 +1,5 @@
 body {
-	font-family: Futura, Helvetica;	
+	font-family: Cabin, Helvetica;	
 	color: #3D3A3B;
 }
 
@@ -9,7 +9,6 @@ body {
 
 .topbar {	
 	padding: 30px 55px 0px 55px; 
-	background: white
 }
 
 .logo-container {
@@ -51,7 +50,7 @@ body {
 }
 
 .nav-link a {
-	color: #959FA4;
+	color: #5B9EAA;
 }
 
 .nav-link.active a {
