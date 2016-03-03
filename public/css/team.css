@@ -2,19 +2,27 @@
 	margin-bottom: 30px;
 }
 
+.team-intro-span {
+	background: #FF9185;
+	padding: 10px;
+	display: inline-block;
+}
+
 .bios-container {
-	padding-top: 30px;	
+	margin-top: 30px;	
 	margin-bottom: 50px;
 }
 
 .profile-img {
-	max-height: 130px;
-	max-width: 130px;
+	max-height: 180px;
+	max-width: 175px;
 	border-radius: 50%;
+	position: relative;
+	display: inline-block;  	
 }
 
 .bio-name {
-	color: #EF4F79;
+	color: #398290;
 }
 
 .bio-row {
