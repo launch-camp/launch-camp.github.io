@@ -5,7 +5,7 @@ $(function() {
 		var application = $(".application-form")
 		$(".submit-application").addClass("btn-warning").val("Sending...");
 		$.ajax({
-			url: "https://script.google.com/macros/s/AKfycbwFMBbibka0pQ9cRd1VOLR2XxV7paC48WX91Uqx-WV9YDtMQUk/exec",
+			url: "https://script.google.com/macros/s/AKfycbz1ThaaXXJk1Of3SmdR4pYVTcmWAj_qswmGLzUjpnZS3F7f19Pp/exec",
 			method: "POST",
 			data: application.serialize(),
 			success: function() {
