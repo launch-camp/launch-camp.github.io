@@ -240,7 +240,8 @@ h4.org-intro-text {
 }
 
 .subscribe-button {
-	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .rocket-sidebar {	
@@ -333,6 +334,10 @@ h4.org-intro-text {
 	margin-top: 10px;
 }
 
+.overview-wrapper {
+		padding-bottom: 36px;
+}
+
 .overview-2-pic-container {
 	overflow: hidden;
 	height: 150px;
@@ -381,6 +386,7 @@ h4.org-intro-text {
 	margin-bottom: 20px;
 }
 
+
 @media (max-device-width: 480px) {
 	.program-explanation {
 		padding: 0;
@@ -426,3 +432,4 @@ h4.org-intro-text {
 		padding: 0px;
 		margin: 0px;
 	}
+}
