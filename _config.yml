@@ -1,0 +1,80 @@
+url: https://launch-camp.github.io
+
+# Site settings
+title: Launch Studio
+email: hi@launchstudio.org
+description: "Launch Studio's site"
+
+
+# Team names, titles and social links
+people:
+- name: Ariana Chae
+  pic: 2
+  position: Director of Operations and Finance. 
+  bio: Ari is an engineer-turned-designer who thrives on working with others to come up with creative solutions to real world problems. Her passion lies at the intersection of education and technology, whether it is figuring out how to improve public education through the use of emerging technologies or thinking about the climate of engineering education. Previously, Ari worked at various edtech startups including Alleyoop, Brightloop, CueThink, and School Shaped. She is excited to now add entrepreneurship to the mix to bring middle and high school students the experience and challenge of running their own businesses. In her spare time, Ari likes to drink coffee and hang out with artists. 
+  social:
+    - title: twitter
+      url: https://twitter.com/asjchae
+    - title: facebook
+      url: https://www.facebook.com/asjchae/
+    - title: linkedin
+      url: https://www.linkedin.com/in/arianachae
+
+- name: Shane Skikne
+  pic: 1
+  position: Director of Tech and Program
+  bio: Shane has unknowingly been an entrepreneur since elementary school. From charging his classmates to watch him play on his Gameboy, to running a snack service in middle school, to making and selling unique hand-made chocolates in college, he has constantly been on the lookout for ways to create value for other people. He continued to shape his understanding of entrepreneurship at Olin College and by working at startups such as HelpAround, SoftArtisans, Facebook, and CyPhyWorks. In addition, he got into the education space by designing introductory robotics programs for kids at the Museum of Science in Boston. Now, he is combining these two interests to figure out how to get students to be entrepreneurs.
+  social:
+    - title: facebook
+      url: facebook.com/skik
+    - title: linkedin
+      url: https://www.linkedin.com/in/shaneskikne?trk=nav_responsive_tab_profile_pic
+    - title: github
+      url: https://www.github.com/skinc
+
+
+
+- name: Doyung Lee
+  pic: 3
+  position: Director of Brand and Marketing
+  bio: Doyung is a goober who eats a lot of bbq pulled chicken.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Liani Lye
+  pic: 4
+  position: Gets shit done. 
+  bio: Liani is working with Launch Studio by way of The Lewis Institute, a Babson College social innovation lab.  An engineer by training, she seeks to understand the messy space that comprises technical interventions and business development for social change.  She will be graduating from Olin College with a Robotics concentration in May 2017.
+
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/LaunchEduSF
+  - title: facebook
+    url: https://www.facebook.com/Launch-Studio-1621551581481674/?ref=br_rs
+  - title: envelope
+    url: mailto:hi@launchstudio.org
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 5750 College Ave
+  - line: Oakland, CA 94618
+
+# Build settings
+markdown: kramdown
+permalink: pretty
