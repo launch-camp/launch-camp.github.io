@@ -12,52 +12,24 @@ people:
   pic: 2
   position: Director of Operations and Finance. 
   bio: Ari, an engineer-turned-designer, thrives at the intersection of education and technology - from improving public education with emerging technologies, to questioning the climate of engineering education. Previously, Ari worked at edtech startups like CueThink and School Shaped. Now, she is excited to challenge middle and high school students to run their own businesses. 
-  social:
-    - title: twitter
-      url: https://twitter.com/asjchae
-    - title: facebook
-      url: https://www.facebook.com/asjchae/
-    - title: linkedin
-      url: https://www.linkedin.com/in/arianachae
+
 
 - name: Shane Skikne
   pic: 1
   position: Director of Tech and Program
   bio: Shane has always looked to create value, from charging peers to watch him play Gameboy in elementary school, to making and selling unique hand-made chocolates in college.  As he shaped his entrepreneurial sense by working at startups like HelpAround and Facebook, Shane became an educator, designing introductory robotics programs for kids at Boston's Museum of Science.  Now, he combines these two interests to get students to be entrepreneurs.
-  social:
-    - title: facebook
-      url: facebook.com/skik
-    - title: linkedin
-      url: https://www.linkedin.com/in/shaneskikne?trk=nav_responsive_tab_profile_pic
-    - title: github
-      url: https://www.github.com/skinc
-
 
 
 - name: Doyung Lee
   pic: 3
   position: Director of Brand and Marketing
   bio: Doyung is a goober who eats a lot of bbq pulled chicken.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 - name: Liani Lye
   pic: 4
   position: Gets shit done. 
   bio: Liani is working with Launch Studio by way of The Lewis Institute, a Babson College social innovation lab.  An engineer by training, she seeks to understand the messy arena of using technical interventions for lasting social change.  She will be graduating from Olin College with a Robotics concentration in May 2017.
-
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
