@@ -54,7 +54,7 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
+    font-weight: 500px;
 }
 
 .img-centered {
@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/lasercutter.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
