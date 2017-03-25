@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: After making and selling their products, students take their feedback to build on their current businesses. Students might improve their products, make customizations with clients, or build websites and partner with local businesses to reach wider audiences.
 ---

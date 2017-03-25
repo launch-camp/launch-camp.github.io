@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Our classrooms are filled with a variety of tools and materials. From laser cutters to microwaves, students are given the chance to prototype and play as they experiment with what they can make. They start simple, designing keychains and postcards. Over time, students start to try differentiate themselves. They come up with ideas and then have to figure out how to make them happen. We have students making clocks, candles, tshirts, soaps so much more.
 ---
