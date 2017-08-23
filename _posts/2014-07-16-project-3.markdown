@@ -1,11 +1,11 @@
 ---
-title: Iterate
+title: Entrepreneurship
 subtitle: Learning from both success and failure
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: iterate.jpg
-thumbnail: iterate.png
+img: entrepreneurship.jpg
+thumbnail: entrepreneurship_small.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

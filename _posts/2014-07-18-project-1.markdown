@@ -1,11 +1,11 @@
 ---
-title: Make
-subtitle: Digital Fabrification and Hands-on Making
+title: Making
+subtitle: Learning digital fabrification and making Our classrooms are filled with a variety of tools and materials. From laser cutters to microwaves, students are given the chance to prototype and play as they experiment with what they can make. They start simple, designing keychains and postcards. Over time, students start to try differentiate themselves. They come up with ideas and then have to figure out how to make them happen. We have students making clocks, candles, tshirts, soaps so much more.
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: make.jpg
-thumbnail: make.jpg	
+img: making.jpg
+thumbnail: making_small.jpg	
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

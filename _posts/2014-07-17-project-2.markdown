@@ -1,11 +1,11 @@
 ---
-title: Sell
-subtitle: Getting the product out there
+title: Design
+subtitle: Getting the product in customers' hands
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: sell.jpg
-thumbnail: sell.jpg
+img: design_small.png
+thumbnail: design_small.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
