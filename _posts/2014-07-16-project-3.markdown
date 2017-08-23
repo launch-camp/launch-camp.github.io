@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurship
-subtitle: Learning from both success and failure
+subtitle: 
 layout: default
 modal-id: 3
 date: 2014-07-16

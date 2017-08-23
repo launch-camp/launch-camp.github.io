@@ -1,6 +1,6 @@
 ---
 title: Making
-subtitle: Learning digital fabrification and making 
+subtitle: 
 layout: default
 modal-id: 1
 date: 2014-07-18
