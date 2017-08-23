@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: After making and selling their products, students take their feedback to build on their current businesses. Students might improve their products, make customizations with clients, or build websites and partner with local businesses to reach wider audiences.
+description: Students take their products to market in a variety of ways. They go into downtown areas to talk to strangers on the street and communicate with local businesses to forge partnerships. Students learn how to ask for and accept feedback, and make customizations and improvements to fit the needs of their customers. They also build websites and online stores, set up a social media presence, and create signs and business cards to market their products.
 ---

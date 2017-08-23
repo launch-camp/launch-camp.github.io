@@ -1,6 +1,6 @@
 ---
 title: Making
-subtitle: Learning digital fabrification and making Our classrooms are filled with a variety of tools and materials. From laser cutters to microwaves, students are given the chance to prototype and play as they experiment with what they can make. They start simple, designing keychains and postcards. Over time, students start to try differentiate themselves. They come up with ideas and then have to figure out how to make them happen. We have students making clocks, candles, tshirts, soaps so much more.
+subtitle: Learning digital fabrification and making 
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Our classrooms are filled with a variety of tools and materials. From laser cutters to microwaves, students are given the chance to prototype and play as they experiment with what they can make. They start simple, designing keychains and postcards. Over time, students start to try differentiate themselves. They come up with ideas and then have to figure out how to make them happen. We have students making clocks, candles, tshirts, soaps so much more.
+description: Students are encouraged to explore the tools available to them and be creative. They are given the freedom to prototype and play as they experiment with what they can make. From laser cutters to 3D printers to microwaves, they are given access to a variety of high- and low-tech tools that allow them to pursue their interests and refine their skills in creating a certain type of product. Previous projects include clocks, candles, t-shirts, soaps, and laser-cut keychains and postcards.
 ---
